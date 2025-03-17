@@ -1,5 +1,4 @@
 # ATM-console-based-project
-ATM Console-Based Project
 This Python-based ATM simulation program replicates the core features of an ATM, providing users with functionalities such as withdrawals, deposits, PIN management, mini statements, and savings transfers. It offers an interactive console-based interface for managing accounts with secure authentication and various transaction options.
 
 Features:
